@@ -9,6 +9,7 @@ module.exports = {
     "@storybook/addon-links",
     "@storybook/addon-essentials",
     "@storybook/addon-actions",
+    "@storybook/preset-scss",
        {
       name: '@storybook/preset-scss',
       options: {
